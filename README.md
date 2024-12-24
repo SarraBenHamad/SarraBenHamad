@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bledi website](https://github.com/SarraBenHamad/Bledi-Website)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS**, **Machine learning**
 
 - 📫 How to reach me **benhamadsarra@gmail.com**
 
