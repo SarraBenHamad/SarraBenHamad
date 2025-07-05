@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarrabenhamad&label=Profile%20views&color=0e75b6&style=flat" alt="sarrabenhamad" /> </p>
 
-- 🔭 I’m currently working on [Bledi website](https://github.com/SarraBenHamad/Bledi-Website)
+💡 **Currently focused on:**  
+- 🤖 Building AI-powered agents using LangChain & Gemini/OpenAI API  
+- 🧠 Machine Learning fundamentals & experimentation  
+- 🧭 Smart assistants that interact with real tools and APIs
 
-- 🌱 I’m currently learning **ReactJS**, **Machine learning**
+🌍 **Previously built:**  
+- **Bledi** — a personal project and live website showcasing the beauty and culture of our country 🇹🇳  
+  *(Deployed and fully built by me — check it out!)*
+  [Bledi website](https://github.com/SarraBenHamad/Bledi-Website)
 
 - 📫 How to reach me **benhamadsarra@gmail.com**
 
